@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\nguyentruongthanhlong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|d:\\asp\\nguyentruongthanhlong\\nguyentruongthanhlong\\views\\category\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\views\\category\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6A9841B6-CED8-46B7-950F-07B59CE65EAD}|nguyentruongthanhlong\\nguyentruongthanhlong.csproj|solutionrelative:nguyentruongthanhlong\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Category\\Category.cshtml",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Views\\Category\\Category.cshtml",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Category\\Category.cshtml",
+              "RelativeToolTip": "nguyentruongthanhlong\\Views\\Category\\Category.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T13:15:34.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "nguyentruongthanhlong\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:14:14.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "nguyentruongthanhlong\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T13:06:42.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "nguyentruongthanhlong\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:04:50.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "nguyentruongthanhlong\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAJUBAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:27:22.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "nguyentruongthanhlong\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:27:20.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "nguyentruongthanhlong\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:27:13.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "nguyentruongthanhlong\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:13:07.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Content\\bootstrap-grid.css",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "nguyentruongthanhlong\\Content\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T12:07:47.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "nguyentruongthanhlong\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\nguyentruongthanhlong\\nguyentruongthanhlong\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "nguyentruongthanhlong\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T12:01:53.059Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
